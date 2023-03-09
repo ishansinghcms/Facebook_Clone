@@ -6,7 +6,7 @@ const { readdirSync } = require("fs");
 const dotenv = require("dotenv");
 dotenv.config();
 const DB = process.env.DATABASE_URL;
-const port = process.env.PORT;
+const port = 8000;
 
 const app = express();
 app.use(express.json());
@@ -28,5 +28,5 @@ mongoose
   .catch((err) => console.log("error connecting to mongodb", err));
 
 app.listen(port, () => {
-  console.log(`server is running on port ${PORT}..`);
+  console.log(`server is running on port ${port}..`);
 });
