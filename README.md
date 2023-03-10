@@ -10,6 +10,7 @@ Some screenshots-
 ![Screenshot 2023-03-10 130456](https://user-images.githubusercontent.com/66079152/224252654-7dffd002-dbdf-4f68-92d4-b1eb6cbf8f96.png)
 ![Screenshot 2023-03-10 130512](https://user-images.githubusercontent.com/66079152/224252679-62f39958-9f98-4645-926b-3e5c78e1cfa8.png)
 ![Screenshot 2023-03-10 130526](https://user-images.githubusercontent.com/66079152/224252700-e365b5f4-3f01-4598-be86-a7ec552b6f4a.png)
+![Screenshot 2023-03-10 165632](https://user-images.githubusercontent.com/66079152/224304526-c62fa36c-2ff1-43e7-a739-b03fdb588ea5.png)
 
 Features of application-
 * a strong authentication system so you can register, login and reset password, we will also have a validation system for register using Formik and Yup with friendly error messages  to verify name to be a certain length or free from special characters, validate email and password, validate dates to verify age, username will be generated automatically and we will make sure it unique.
