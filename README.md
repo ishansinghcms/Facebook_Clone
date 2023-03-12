@@ -2,7 +2,7 @@
 
 <h3>A fully functional Facebook clone full stack web application.</h3>
 
-<h3>Technologies/tools/frameworks used- 
+<h3>Technologies/tools/frameworks used-</h3>
 
 * ReactJS
 NodeJS
