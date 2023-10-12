@@ -5,7 +5,7 @@
 <h3>Technologies/tools/frameworks used-</h3>
 
 * ReactJS
-NodeJS
+* NodeJS
 * ExpressJS
 * MongoDB
 * MERN-stack
